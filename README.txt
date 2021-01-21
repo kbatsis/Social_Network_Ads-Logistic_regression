@@ -1,0 +1,1 @@
+This project concerns the construction of a logistic regression model for both examining the factors associated with purchases due to social network adverstisements and the prediction of the probability of such purchases.
